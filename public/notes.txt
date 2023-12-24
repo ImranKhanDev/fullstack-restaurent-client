@@ -1,3 +1,4 @@
+*need to work from -- 74.4 category is done almost*
 fullstack restaurent client site setup
 *setup react app with react router dom page
 --------
@@ -7,4 +8,7 @@ cd <your new project directory>
 npm install react-router-dom localforage match-sorter sort-by
 npm run dev
 ---------
-*install TAILWINDCSS with DAISY ui
+*install TAILWINDCSS with DAISY ui & setup it in tailwind.config.js file
+*setup react-router-dom in main.jsx folder and wrap it
+*setup [pages] folder for page component
+*setup [shared] folder for shared-page component
