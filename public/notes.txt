@@ -1,0 +1,10 @@
+fullstack restaurent client site setup
+*setup react app with react router dom page
+--------
+npm create vite@latest name-of-your-project -- --template react
+# follow prompts
+cd <your new project directory>
+npm install react-router-dom localforage match-sorter sort-by
+npm run dev
+---------
+*install TAILWINDCSS with DAISY ui
